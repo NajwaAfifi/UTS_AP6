@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 int i,j,k=0,jarak=1,baris;
-    cout<< "masukkan huruf :";
+    cout<< "masukkan angka :";
     cin>> baris;
     for(i=baris;i>=1;i--)
     {
